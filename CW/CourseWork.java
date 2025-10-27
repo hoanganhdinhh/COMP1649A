@@ -1,4 +1,4 @@
-package Labs.CW;
+package CW;
 
 import java.util.ArrayDeque;
 import java.util.ArrayList;
