@@ -1,4 +1,4 @@
-package Labs.Week7;
+package Week7;
 
 public class BinarySearch {
     private Node head;
