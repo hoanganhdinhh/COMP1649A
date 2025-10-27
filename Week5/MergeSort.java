@@ -1,4 +1,4 @@
-package Labs.Week5;
+package Week5;
 
 public class MergeSort {
     public static void mergeSort(int[] array, int left, int right) {

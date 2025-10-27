@@ -1,4 +1,4 @@
-package Labs.Week2;
+package Week2;
 
 import java.util.*;
 

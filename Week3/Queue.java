@@ -1,4 +1,4 @@
-package Labs.Week3;
+package Week3;
 
 public class Queue {
     private LinkedNode front;

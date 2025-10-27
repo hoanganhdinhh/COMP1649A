@@ -1,4 +1,4 @@
-package Labs.Week4;
+package Week4;
 
 public class GetNumberOfStep {
     public static int getNumberOfSteps(int n) {

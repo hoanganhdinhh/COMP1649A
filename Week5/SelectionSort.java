@@ -1,4 +1,4 @@
-package Labs.Week5;
+package Week5;
 
 public class SelectionSort {
     public static void selectionSort(int[] array, int n) {

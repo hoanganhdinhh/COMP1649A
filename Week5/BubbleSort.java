@@ -1,4 +1,4 @@
-package Labs.Week5;
+package Week5;
 
 public class BubbleSort {
     public static void bubbleSort(int[] array, int n) {
