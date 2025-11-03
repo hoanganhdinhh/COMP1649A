@@ -10,6 +10,8 @@ public class Tree {
 
         TreeNode(int value) {
             this.value = value;
+            this.left = null;
+            this.right = null;
         }
     }
 
